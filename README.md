@@ -2,6 +2,9 @@
 
 - create react app
 - install twailwind
+- header
+- login form
+- sign up form
 
 
 # Features
